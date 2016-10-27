@@ -1,0 +1,7 @@
+base = 'http://uems.sysu.edu.cn/'
+mainpage = base + 'elect'
+checkcode = base + 'elect/login/code?v=0.7232840875741022'
+login = base + 'elect/login'
+querybase = 'http://uems.sysu.edu.cn/elect/s/'
+querymain = querybase + 'types?'
+querycourse = querybase + 'courseAll?'
